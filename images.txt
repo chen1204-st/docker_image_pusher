@@ -1,1 +1,1 @@
-linuxserver/emby:4.9.0-beta
+emby:4.9.0-beta
