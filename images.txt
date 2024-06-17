@@ -1,1 +1,1 @@
-nyanmisaka/jellyfin
+cooderl/wewe-rss-sqlite
